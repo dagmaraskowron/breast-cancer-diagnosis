@@ -1,4 +1,4 @@
-# Wspomaganie diagnostyki raka piersi z wykorzystaniem uczenia maszynowego
+# Wspomaganie diagnostyki raka piersi 
 
 ## O projekcie
 
